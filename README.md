@@ -14,6 +14,7 @@ The best staff always help their players grow, can you identify that using histo
 •	Graphically represent the scores for the test set
 
 Details :
+
 •	Sofifa Id, URL, Wage, Salary, Name, Real face, URL variables cannot be used during the prediction or learning. 
 
 •	Assign a score to all clubs out of 100, and represent it in an appropriate visualization. With 100 being the highest 
