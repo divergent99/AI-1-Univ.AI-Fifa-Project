@@ -1,1 +1,1 @@
-# AI-1-Univ.AI-Fifa-Project
+# AI-1-Univ.AI-FIFA-Project
